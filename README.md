@@ -1,6 +1,6 @@
 # 🧙‍♂️ Mestre Gemini: Sua Aventura AI - Viva Mundos, Crie Destinos! 🌠
 
-<img src="https://github.com/user-attachments/assets/04ff1bcf-f0e9-4691-a01d-0f0145762c35" alt="Gemini Master" width="350"/>
+<img src="https://github.com/user-attachments/assets/04ff1bcf-f0e9-4691-a01d-0f0145762c35" alt="Gemini Master" width="250"/>
 
 
 
