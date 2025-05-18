@@ -1,6 +1,7 @@
 # 🧙‍♂️ Mestre Gemini: Sua Aventura AI - Viva Mundos, Crie Destinos! 🌠
 
-![Gemini Master ](https://github.com/user-attachments/assets/04ff1bcf-f0e9-4691-a01d-0f0145762c35)
+<img src="https://github.com/user-attachments/assets/04ff1bcf-f0e9-4691-a01d-0f0145762c35" alt="Gemini Master" width="350"/>
+
 
 
 🌌 Sistema de Mundos: Crie Aventuras de RPG com IA e Gemini! 🧙‍♂️✨
