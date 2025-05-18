@@ -1,5 +1,8 @@
 # 🧙‍♂️ Mestre Gemini: Sua Aventura AI - Viva Mundos, Crie Destinos! 🌠
 
+![Gemini Master ](https://github.com/user-attachments/assets/04ff1bcf-f0e9-4691-a01d-0f0145762c35)
+
+
 🌌 Sistema de Mundos: Crie Aventuras de RPG com IA e Gemini! 🧙‍♂️✨
 
 Bem-vindo ao Sistema de Mundos, um projeto desenvolvido durante a Imersão Alura + Gemini! Aqui, você se transforma em um verdadeiro Mestre do Jogo, criando universos, personagens e enredos de RPG de forma interativa, dinâmica e totalmente personalizada - tudo isso com o poder da IA generativa! 🎲
