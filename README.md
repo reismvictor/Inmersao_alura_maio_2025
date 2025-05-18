@@ -26,6 +26,21 @@ Foco em acessibilidade: Toda a narrativa é formatada para fácil leitura no con
 Emoção e diversão: Emojis e descrições sensoriais dão vida ao mundo, aos personagens e aos desafios!
 Pronto para criar seu próprio universo e viver uma aventura única?
 
+🛠️ Tecnologias Utilizadas
+Este projeto foi desenvolvido integrando as tecnologias mais modernas de IA e ambientes interativos para potencializar a criação de aventuras de RPG solo:
+Google Colab
+Ambiente de notebooks Jupyter hospedado na nuvem, que permite rodar Python diretamente do navegador, facilitando a execução, visualização e compartilhamento do projeto, sem necessidade de instalação local.
+Gemini (Google AI)
+Modelo de IA multimodal da Google, capaz de compreender e gerar texto, imagens, áudio e vídeo, utilizado aqui para criar mundos, personagens, enredos e interações dinâmicas.
+Gemini 2.0 Flash
+Versão experimental e ultrarrápida do modelo Gemini, com suporte a entradas e saídas multimodais, geração de imagens, áudio multilíngue e integração nativa com ferramentas externas, proporcionando respostas mais rápidas e ricas para a experiência do usuário.
+Google AI Development Kit (ADK)
+Toolkit open-source e modular para desenvolvimento de agentes de IA, otimizado para Gemini, permitindo criar, orquestrar e escalar agentes inteligentes de forma flexível e integrada ao ecossistema Google.
+Python
+Linguagem principal para desenvolvimento dos notebooks, integração de agentes, manipulação dos dados e lógica do jogo.
+Markdown & Emojis
+Utilizados para tornar a narrativa mais visual, organizada e envolvente no console do Google Colab.
+
 
 🌍✨ Escolha seu mundo, monte seu herói e embarque nessa jornada épica com o Mestre Gemini!
 Qual será o seu destino? 🎲
