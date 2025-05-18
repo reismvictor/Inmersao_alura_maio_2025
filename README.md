@@ -1,4 +1,4 @@
-🧙‍♂️ Mestre Gemini: Sua Aventura AI - Viva Mundos, Crie Destinos! 🌠
+# 🧙‍♂️ Mestre Gemini: Sua Aventura AI - Viva Mundos, Crie Destinos! 🌠
 
 🌌 Sistema de Mundos: Crie Aventuras de RPG com IA e Gemini! 🧙‍♂️✨
 
